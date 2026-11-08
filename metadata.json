@@ -1,0 +1,6 @@
+{
+  "name": "EcoTrack ODS 13 - Gestión de Huella de Carbono & Mapeo ORM",
+  "description": "Sistema de gestión de huella de carbono empresarial para el ODS 13 (Acción por el Clima), con mapeo de modelo relacional a objetos (ORM), persistencia de datos phpMyAdmin y generador de documentación académica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
